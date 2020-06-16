@@ -1,0 +1,10 @@
+setShipNum(0);
+setShipType("Fulminatae",18,0); 
+setShipNum(1);
+setShipType("Jimi-Saru",15,0.125);
+setShipNum(2);
+setShipType("Farside",16,0.25);
+setShipNum(3);
+setShipType("Acadamia",0,0.375);
+setShipNum(4);
+setShipType("Apocalypse",17,0.5);
